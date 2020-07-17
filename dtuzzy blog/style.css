@@ -1,0 +1,88 @@
+body
+{
+	background-color: BLACK;
+}
+img
+{
+	margin-left: 129px;
+	width: 900px;
+	height: 100px;
+}
+.section1
+{
+	margin-left: 120px;
+	background-color: pink;
+	background-image: url(file:///C:/Users/lexxy%20cool/Desktop/african%20tori/graphics/giphy.gif);
+	height: 350px;
+	width: 1000px;
+}
+.photo1
+{
+	margin: 100px;
+	margin-left: 40px;
+	margin-top: 50px;
+	height: 300px;
+	width: 930px;
+}
+li
+{
+	color: red;
+	margin: -25;
+	margin-top: 30px;
+	margin-right: 900;
+display: inline-block;
+
+}
+.list
+{
+	margin: 80px;
+	margin-top: -60px;
+	padding: 20px;
+  color: white;
+}
+li
+{
+	color: white;
+	margin: 10px;
+}
+.seg1
+{
+	background-color: #999;
+	height: 1850px;
+	width: 1300px;
+}
+.seg2
+{
+	margin-top: -1290px;
+}
+.imgz1
+{
+	background-color: black;
+	margin-left: 290px; 	
+    width: 605px;
+    height: 300px;
+}
+.heading2
+
+{
+margin-top: 20px;
+margin-left: 700px;
+height: 30px;
+font-size: 15px;
+}
+.heading 
+{
+	margin-left: 80px;
+}
+p
+{
+	margin-left: 260px;
+}
+.tomtom
+{
+	width: 150px;
+}
+audio
+{
+	margin-left: 30px;
+}
